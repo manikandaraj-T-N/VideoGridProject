@@ -27,3 +27,28 @@ To use this template, follow the steps below:
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit/)
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Make your changes in the branch.
+
+4. Commit your changes with descriptive commit messages.
+
+5. Push your branch to your forked repository.
+
+6. Submit a pull request detailing your changes.
+
+Please ensure that your code adheres to the existing coding standards and conventions used in the project.
+
+## Contact
+
+If you have any questions, suggestions, or would like to report a bug, please feel free to contact Manikandaraj via [manikandarajnataraj@gmail.com].   (or)
+
+
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandaraj-t-n-834189173/)
