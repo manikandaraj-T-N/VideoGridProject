@@ -1,6 +1,6 @@
 # VideoGridProject
 
-# Live Instructional Web Template
+### Live Instructional Web Template
 
 This is a web template designed for displaying live instructional videos and a student's video within a grid layout. The template also provides a 
 responsive aspect ratio for the videos and space for a dynamic emotional status display.
